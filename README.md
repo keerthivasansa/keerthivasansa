@@ -8,7 +8,7 @@ I've been programming for 5 - 6 years. Have developed many libraries, open-sourc
 
 * 🌍  I'm based in Chennai, India
 * ✉️  You can contact me at [keerthivasansa@outlook.com](mailto:keerthivasansa@outlook.com)
-* 🚀  I'm currently working on [Animos](http://animos.cf)
+* 🚀  I'm currently working on [Animos](http://github.com/keerthivasansa/animos)
 * 🧠  I'm learning Ruby on Rails
 * 🤝  I'm open to collaborating on interesting startup ideas or FOSS projects.
 
